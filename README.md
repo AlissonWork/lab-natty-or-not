@@ -1,16 +1,21 @@
-# Título do Projeto Extremamente Aesthetic ;)
+A Revolução das IAs na 
+Educação: Um Novo Rumo 
+para o Aprendizado 🌌
 
-## 📒 Descrição
-Breve descrição do seu projeto
+📒 Descrição
+Este e-book de 8 páginas explora o impacto revolucionário das IAs Generativas na educação e como elas moldarão o futuro.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Gamma AI para edição.
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas que serviram de molde para o tema do nosso e-book. Para concluir, a montagem final foi feita no Gamma IA, por ser uma ferramenta muito fluida e flexível.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🚀 Resultados
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento e seus impactos para as gerações futuras.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+LINK PARA O E-BOOK AQUI
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
