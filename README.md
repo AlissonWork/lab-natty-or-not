@@ -1,6 +1,4 @@
-A Revolução das IAs na 
-Educação: Um Novo Rumo 
-para o Aprendizado 🌌
+# A Revolução das IAs na Educação: Um Novo Rumo para o Aprendizado 🌌
 
 📒 Descrição
 Este e-book de 8 páginas explora o impacto revolucionário das IAs Generativas na educação e como elas moldarão o futuro.
@@ -9,6 +7,7 @@ Este e-book de 8 páginas explora o impacto revolucionário das IAs Generativas 
 IA Generativa ChatGPT para roteirização;
 IA Generativa Leonardo AI para criar a arte visual do e-book;
 Gamma AI para edição.
+
 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas que serviram de molde para o tema do nosso e-book. Para concluir, a montagem final foi feita no Gamma IA, por ser uma ferramenta muito fluida e flexível.
 
